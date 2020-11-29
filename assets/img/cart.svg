@@ -1,0 +1,22 @@
+<svg id="cart" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="59.281" height="42.125" viewBox="0 0 59.281 42.125">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #0879c9;
+        fill-rule: evenodd;
+      }
+
+      .cls-2 {
+        fill: #fbbc05;
+        stroke: #fefefe;
+        stroke-linejoin: round;
+        stroke-width: 3px;
+      }
+    </style>
+  </defs>
+  <g id="cart-2" data-name="cart">
+    <path class="cls-1" d="M836.576,90.525h7.092l7.871,21.205a2.307,2.307,0,0,0,.529.828,2.34,2.34,0,0,0,1.748.777h21.547a2.517,2.517,0,0,0,2.294-1.536l6.592-17.421a2.321,2.321,0,0,0-1.369-3,6.657,6.657,0,0,0-1.224-.214H848.9l-1.392-3.748a2.86,2.86,0,0,0-2.5-1.549h-8.432A2.327,2.327,0,1,0,836.576,90.525Zm17.4,14.317h21.312l-1.454,3.841H855.4ZM878.7,95.821l-1.653,4.367h-24.8l-1.62-4.367H878.7Zm-7.99,20.137a3.332,3.332,0,1,0,3.355,3.332A3.343,3.343,0,0,0,870.709,115.958Zm-12.559,0a3.332,3.332,0,1,0,3.355,3.332A3.343,3.343,0,0,0,858.15,115.958Z" transform="translate(-834.219 -80.5)"/>
+    <circle id="Эллипс_1" data-name="Эллипс 1" class="cls-2" cx="46.796" cy="12.5" r="8.61"/>
+    <image id="Слой_638" data-name="Слой 638" x="40.781" y="8.5" width="12" height="10" xlink:href="data:img/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAwAAAAKCAYAAACALL/6AAAAqklEQVQYlY2QvQlCQRCEBzE0NrYKwQaUh7GBIKKBqRXYgTWIPWgJGtmCgZkigj/giz9Z3BU5f3gDe8fNzgzHCCgyPWABNIqIM+DIE6uS/iOTNJdUlZRLWltCHZgCnSS5Dew9+Qr0jbfFxskT0HRxCzg4fwMGEWTHDLj7cgdMgK2/83dxGCpAF7i4KPD6RmqIserCZOLht9ZSYgScgfGvmstJqUtJNb8/IekBkgNEj+pSzA8AAAAASUVORK5CYII="/>
+  </g>
+</svg>

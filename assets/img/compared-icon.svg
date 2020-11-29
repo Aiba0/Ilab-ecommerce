@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="19" height="13" viewBox="0 0 19 13">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #0879c9;
+        fill-rule: evenodd;
+      }
+    </style>
+  </defs>
+  <path id="Rounded_Rectangle_5_kопировать_3" data-name="Rounded Rectangle 5 kопировать 3" class="cls-1" d="M276,1162h3a1,1,0,0,1,1,1v7a1,1,0,0,1-1,1h-3a1,1,0,0,1-1-1v-7A1,1,0,0,1,276,1162Zm14,0h3a1,1,0,0,1,1,1v7a1,1,0,0,1-1,1h-3a1,1,0,0,1-1-1v-7A1,1,0,0,1,290,1162Zm-7-4h3a1,1,0,0,1,1,1v11a1,1,0,0,1-1,1h-3a1,1,0,0,1-1-1v-11A1,1,0,0,1,283,1158Z" transform="translate(-275 -1158)"/>
+</svg>

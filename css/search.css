@@ -1,0 +1,26 @@
+.search {
+    width: 100%;
+    position: relative;
+}
+
+.search__input {
+    width: 100%;
+    padding: 14px;
+    font-size: 14px;
+    border: 1px solid var(--line-clr);
+    border-radius: 6px;
+    outline: none;
+}
+
+.search__input::placeholder {
+    color: #6d85a4;
+}
+
+.search__btn {
+    position: absolute;
+    top: 9px;
+    right: 5px;
+    border: none;
+    background-color: inherit;
+    outline: none;
+}
